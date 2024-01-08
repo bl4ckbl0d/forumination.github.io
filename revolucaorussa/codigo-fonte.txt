@@ -1,0 +1,422 @@
+=======================================codigo do html===============================================
+
+
+<html>
+    <head>
+
+        <link rel="stylesheet" href="novo_site.css">
+        <link rel="shortcut icon" type="image/png" href="https://littlestaughtonbaptist.org.uk/wp-content/uploads/2018/01/cropped-favicon-dark.png">
+
+        <title>Forumination</title>
+    </head>
+    <body>
+        <div class="circle1" id="circle11"><div class="filtro" id="circulo1"></div></div>
+        <div class="circle2" id="circle22"><div class="filtro" id="circulo2"></div></div>
+        <span class="menubut" id="menubut"></span>
+        <span class="menubox" id="menubox">
+            <span class="menutext" id="home" style="padding-top: 5%;">Home</span>
+            <span class="menutext" id="sobre">Sobre</span>
+            <span class="menutext" id="antecedentes">Antecedentes da<br>Revolução</span>
+            <span class="menutext" id="bolchevique">Revolução<br>Bolchevique</span>
+            <span class="menutext" id="codigofonte">Codigo-Fonte</span>
+            <span class="menutext" id="joguinho">Extra</span>
+            <span class="menutext" id="trocartema">SUPER<br>RAIMBOW!!</span>
+        </span>
+        <span class="titulo1">Forumination</span>
+        <span class="titulo">Tema: Revolução Russa</span>
+        <span class="titulo" id="antecedentestitulo">Antecedentes da Revolução</span>
+        <span class="texto">Na Rússia, entre 1721 a 1906, o sistema de governo foi uma monarquia absolutista, enquanto de 1907 a 1917, o sistema foi substituido por uma monarquia constitucional. As principais características são da monarquia russa eram os privilégios da nobreza, esta sendo a classe mais abastada no que se diz respeito a direitos, além do governo centralizado nas mãos do imperador. A agricultura era a base econômica, a Rússia era um país essencialmente agrário e carente de modernizações.</span>
+        <img src="imagem_1.jpg">
+        <span class="texto">Na Europa, o capitalismo desenvolveu o Imperialismo no século XIX, e consolidou o modo de produção industrial como predominante em detrimento da produção manufatureira. Em virtude da Grande Depressão Capitalista no século XIX, ocorreram duas principais consequências na economia dos países industrializados: a primeira foi a falência das pequenas e médias empresas e a concentração do capital nas mãos de poucos capitalistas industriais. A segunda consequência da depressão foi a busca de mercados consumidores externos, ou seja, fora da Europa, nos continentes ainda não industrializados, como a Ásia e a África. Dado todos os problemas que emergiram junto ao capitalismo, Karl Marx e Friedrich Engels, desenvolveram a teoria socialista, partindo da análise crítica e científica do próprio capitalismo. A história do socialismo encontra suas origens na Revolução Francesa e nas mudanças trazidas pela Revolução Industrial.</span>
+        <img src="imagem_2.jpg">
+        <span class="texto">Na teoria, o proletariado era um dos focos principais abordados. Para além da origem do termo no Império Romano Antigo, pode-se encontrar a origem do proletariado ainda na Idade Média entre as pessoas pobres e exploradas pelo sistema da época. Ainda no período de transição feudal para a formação de Estados Nacionais, as classes sociais vigentes não sofreram manutenção, isto é, pobres continuaram pobres, e ricos continuaram ricos. Com a ascensão da burguesia e o crescimento das cidades, entre os séculos XVIII e XIX, muitos camponeses abandonaram a difícil vida no campo para tentar um emprego na cidade. Assim nasce o proletariado. Com a revolução industrial, a Rússia Sofreu pequenos avanços industriais no século XIX, mas mesmo assim o Império Russo continuou a ser completamente agrário e arcaico. Essa pequena industrialização fez com que diversos camponeses saíssem do meio rural e viessem tentar a vida nos centros urbanos, após a abolição da servidão em 1861. Cabe dizer que o Estado russo era muito rigoroso com as novas industrializações, e procurava sempre estatiza-las.</span>
+        <img src="imagem_3.jpg">
+        <span class="texto">No inicio do século XX, o Império Russo ainda era imenso constituído e por diferentes povos com diversas línguas e tradições diferentes. Governada por um Czar, Nicolau II, um imperador que contava com poderes absolutos e se dizia governante por vontade de Deus. O campesinato procurava por melhores condições de trabalho e de vida, mas esse povo fruto da miserabilidade agrária acabou sofrendo nos centros urbanos, com a carga excessiva de trabalho, baixos salários, a fome e a marginalização. Nesse contexto a Rússia ainda era dependente financeiramente da Inglaterra e França. Estoura então na Rússia diversas greves e manifestações reivindicando melhores condições de trabalho, participação política e liberdade de expressão, uma vez que a Rússia czarista limitava até mesmo a imprensa. Em 9 de janeiro de 1905, no calendário juliano, aconteceu o massacre da população de São Petersburgo, em nome do imperador russo Nicolau II.</span>
+        <img src="imagem_4.jpg">
+        <span class="texto">No inicio do século XX, o Império Russo ainda era imenso constituído e por diferentes povos com diversas línguas e tradições diferentes. Governada por um Czar, Nicolau II, um imperador que contava com poderes absolutos e se dizia governante por vontade de Deus. O campesinato procurava por melhores condições de trabalho e de vida, mas esse povo fruto da miserabilidade agrária acabou sofrendo nos centros urbanos, com a carga excessiva de trabalho, baixos salários, a fome e a marginalização. Nesse contexto a Rússia ainda era dependente financeiramente da Inglaterra e França. Estoura então na Rússia diversas greves e manifestações reivindicando melhores condições de trabalho, participação política e liberdade de expressão, uma vez que a Rússia czarista limitava até mesmo a imprensa. Em 9 de janeiro de 1905, no calendário juliano, aconteceu o massacre da população de São Petersburgo, em nome do imperador russo Nicolau II.</span>
+        <img src="imagem_5.jpg">
+        <span class="titulo" id="bolcheviquetitulo">Revolução Bolchevique</span>
+        <span class="texto">Foi em 1917, com a erosão do czarismo na Rússia, que a Revolução Bolchevique começou a tomar forma. O povo estava insatisfeito com o czar Nicolau II e passou a apoiar uma revolução liderada pelo Partido Comunista. Este, por sua vez, é chefiado por Vladimir Lenin. Segundo os bolcheviques, as mudanças feitas na Rússia não foram suficientes. Eles favorecem mudanças mais radicais, potencialmente quebrando o tradicionalismo russo que está sendo imposto. Também em 1917, com apoio popular, Lenin foi eleito chefe do Conselho de Comissários Políticos. E os bolcheviques começaram a assumir o controle da Revolução Russa. À frente da revolução, Lenin começou a lutar contra aqueles que eram contra seus interesses.</span>
+        <img src="lenin.png">
+        <span class="texto">Durante este período, o czar Nicolau II foi morto, marcando a ascensão do comunismo na Rússia. E assim aconteceu a tão esperada luta de classes idealizada por Lênin, conhecida como a Revolução de Outubro de 1917. Originalmente, bolchevique significava "maioria" em russo. A palavra começou a ser usada no início do século 20 para se referir aos membros mais radicais do Partido Operário Social Democrata Russo (PORSDP). O partido se opôs ao regime de Nicolau II na Rússia. Os bolcheviques apoiaram uma mudança radical na Rússia, a queda do czarismo e a ditadura do proletariado, através da revolução comunista. Eles também argumentaram que o governo deveria ser formado por um sindicato de camponeses e trabalhadores russos. Sob a liderança de Lenin, os bolcheviques assumiram o comando político da Rússia em 1917, após a Revolução Russa. Eles usaram o lema: paz, terra, pão, liberdade e trabalho.</span>
+        <img src="quem_sao.png">
+        <span class="texto">Lenin foi o principal líder revolucionário da revolução comunista na Rússia e teve um impacto na revolução bolchevique. Ele também é o líder do Partido Comunista. Ele espalhou sua ideologia refletida em Karl Marx, que acabou se espalhando por todo o mundo. Seus ideais são baseados principalmente na luta contra o populismo. No entanto, Lenin deixou a Rússia para estudar e estudar questões mais básicas, com a intenção de retornar e estabelecer o Partido Social Democrata Russo. Mas ao retornar, Lenin foi preso, falhando em realizar seu plano. Portanto, ele foi exilado na Sibéria por três anos. Em 1922, Vladimir Lenin sofreu seu primeiro derrame, que o enfraqueceu consideravelmente. Em 21 de janeiro de 1924, ele morreu após entrar em coma, aos 53 anos, entregando o poder da Rússia a Stalin.</span>
+        <img src="comunismo.png">
+        <span class="anuncio">VEJA TAMBEM!!</span>
+        <span class="video"><iframe width="760" height="515" src="https://www.youtube.com/embed/EYPPSnwN3ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></span>
+        <span class="sobre" id="sobretextos">
+            <span class="sobretexto">O grupo de pesquisa que contribuiu para esta magnificiencia foi:Matheus Sales, Enzo Ferreira, Laura Cunha, Maria Luiza Mazzini, Maria Rigatto, Maria Reina, Camila Marchiolli, Rafaela Quederoli, Rhayssa, Matheis Vincigueta, Heytor, Gustavo, Luis felipe, Gabriel Zaloti, Fernando.</span>
+            <span class="sobretexto">Tudo foi desenvolvido por uma pessoa,espero q goste ;D</span>
+            <span class="sobretexto">Futuros trabalhos serão apresenados aqui !!</span>
+        </span>
+    </body>
+    <script src="novo_site.js"></script>
+</html>
+
+
+============================================codigo do css===================================================
+
+
+    html { 
+    height: 100%;
+    width: 100%;
+    scroll-behavior: smooth;
+    
+    }
+    body{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        background-image: url("https://i.pinimg.com/originals/b4/71/d6/b471d641c2fb84308dfb016cbf4ac6bb.gif");
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        margin: 0 0 0 0 ;
+        overflow-x: hidden;
+        font-family: Arial, sans-serif;
+    }
+    body::-webkit-scrollbar {
+        width: 14px;               /* width of the entire scrollbar */
+      }
+      
+      body::-webkit-scrollbar-track {
+        background: rgb(71, 71, 71);        /* color of the tracking area */
+      }
+      
+      body::-webkit-scrollbar-thumb {
+        background-color: rgb(0, 0, 0);    
+        border-radius: 20px;       
+        border: 3px solid rgb(71, 71, 71);  
+      }
+
+    img {
+        margin-top: 15%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .musicpushbuton{
+        height: min-content;
+    }
+    .titulo1{
+        width: min-content;
+        margin-bottom: 15%;
+        position:relative;
+        margin-left: auto;
+        white-space: nowrap;
+        margin-right: auto;
+        font-size: 800%;
+        top: 20%;
+        color: azure;
+        z-index: 10;
+        animation-name: brilho;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate-reverse;
+        mix-blend-mode: difference;
+    }
+    .titulo{
+        width: min-content;
+        margin-top: 4%;
+        position:relative;
+        margin-left: auto;
+        white-space: nowrap;
+        margin-right: auto;
+        font-size: 600%;
+        top: 10%;
+        color: azure;
+        z-index: 10;
+        text-shadow: 0px 0px 10px #fff;
+        mix-blend-mode: difference;
+    }
+    .texto{
+        padding: 3%;
+        width:80%;
+        height:min-content;
+        color:azure;
+        word-wrap: break-word;
+        position: relative;
+        margin-top: 15%;
+        margin-left: auto;
+        margin-right: auto;
+        z-index: 1;
+        background-color: rgba(105, 105, 105, 0.24);
+        border-radius: 20px;
+        font-size: xx-large;
+        font-weight: bold;
+        text-align: justify;
+        mix-blend-mode: difference;
+    }
+    .circle1 {
+        position: absolute;
+        top: -97%;
+        left: -20%;
+        width: 65%;
+        border-radius: 50%;
+        aspect-ratio: 1/1;
+        background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/7994591-fundo-espiral-preto-e-branco-gratis-vetor.jpg");
+        overflow: hidden;
+        filter: brightness(4%);
+        background-size: cover;
+        animation-name: girar1;
+        animation-duration: 25s;
+        animation-iteration-count: infinite;
+        z-index: 1;
+    }
+    .circle2 {
+        position: absolute;
+        top: -100%;
+        left: 30%;
+        width: 70%;
+        border-radius: 50%;
+        aspect-ratio: 1/1;
+        background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/7994591-fundo-espiral-preto-e-branco-gratis-vetor.jpg");
+        overflow: hidden;
+        filter: brightness(6%);
+        background-size: cover;
+        animation-name: girar2;
+        animation-duration: 35s;
+        animation-iteration-count: infinite;
+        transform-origin: center;
+        z-index: 1;
+    }
+    .menubut {
+        width: 3.5%;
+        aspect-ratio: 1/1;
+        position: fixed;
+        top: 2%;
+        left: 1%;
+        z-index: 100;
+        background-image: url(pngegg.png);
+        background-repeat: no-repeat;
+        background-size:contain;
+        animation-duration: 1s;
+        cursor:pointer;
+    }
+    .menubox {
+        padding-top: 1%;
+        position: fixed;
+        width: 24%;
+        height: 99%;
+        left: -24%;
+        background-color:rgb(41, 41, 41);
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        z-index: 99;
+        overflow-y: scroll;
+    }
+
+    .menubox::-webkit-scrollbar {
+        width: 14px; 
+    }
+      
+    .menubox::-webkit-scrollbar-track {
+        background: rgb(41, 41, 41);        
+    }
+      
+    .menubox::-webkit-scrollbar-thumb {
+        background-color: rgb(0, 0, 0);    
+        border-radius: 20px;       
+        border: 3px solid rgb(41, 41, 41);  
+    }
+    .menutext {
+        max-width: 85%;
+        max-height: 8%;
+        width: 85%;
+        height: 8%;
+        font-size: 150%;
+        color: azure;
+        margin-left: 5%;
+        margin-right: auto;
+        margin-top: 10%;
+        cursor: pointer;
+        white-space: nowrap;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+    .menutext:hover {
+        animation: textoanim 50s ;
+    }
+    .menutext:not(:hover) {
+        animation: textoanim2 0.3s ;
+    }
+    .anuncio {
+        height: 20%;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 500%;
+        color: azure;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-shadow: 0px 0px 10px #fff;
+        margin-top: 20%;
+        margin-bottom: 10%;
+        animation: anuncioanim 3s infinite alternate-reverse;
+    }
+    .video {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10%;
+    }
+    .sobre {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        height: 50%;
+        background-image: url(creditos-animation.gif);
+    }
+    .sobretexto {
+        font-size: xx-large;
+        color: azure;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-shadow: 0px 0px 10px #fff;
+        margin-top: 2%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align:center;
+    }
+    .filtro{
+        position: absolute;
+        z-index: 3;
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+        opacity: 0.7;
+    }
+    @keyframes girar1 {
+        from {transform: rotate(0deg);}
+        to {transform: rotate(360deg);}
+    }
+    @keyframes girar2 {
+        0% {transform: rotate(0deg);}
+        25% {transform: rotate(-90deg);}
+        26% {animation-delay: 1s ;}
+        50% {transform: rotate(-180deg);}
+        51% {animation-delay: 1s;}
+        75% {transform: rotate(-270deg);}
+        76% {animation-delay: 1s;}
+        100% {transform: rotate(-360deg);}
+    }
+    @keyframes brilho {
+        0% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 5px #fff, 0 0 5px azure, 0 0 5px azure, 0 0 5px azure, 0 0 5px azure, 0 0 5px azure;
+        color:azure }
+        100% { text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 5px #fff, 0 0 5px transparent, 0 0 5px transparent, 0 0 5px transparent, 0 0 5px transparent, 0 0 5px transparent;
+        color: black; }
+    }
+    @keyframes menuanim {
+        0% {transform: rotate(0deg);}
+        80% {transform: rotate(288deg);}
+        100% {transform: rotate(360deg);}
+    }
+    @keyframes menuanim2 {
+        0% {transform: rotate(360deg);}
+        80% {transform: rotate(72deg);}
+        100% {transform: rotate(0deg);}
+    }
+    @keyframes menuboxanim {
+        0% {left: -24%;}
+        80% {left: -4%;}
+        100% {left: 0%;}
+    }
+    @keyframes menuboxanim2 {
+        0% {left: 0%;}
+        80% {left: -16%;}
+        100% {left: -24%;}
+    }
+    @keyframes textoanim {
+        0% {font-size: 150%;color: azure;}
+        1% {font-size: 150%;color:aquamarine;}
+        100% {font-size: 150%;color: aquamarine;}
+    }
+    @keyframes textoanim2 {
+        0% {font-size: 150%;color: aquamarine;}
+        100% {font-size: 150%;color: azure;}
+    }
+    @keyframes anuncioanim {
+        0% {font-size: 500%;}
+        100% {font-size: 750%;}
+    }
+
+
+==========================================codigo javascript=================================================
+
+
+document.addEventListener("DOMContentLoaded", function() {
+var menubut = document.getElementById("menubut");
+var menubox = document.getElementById("menubox");
+var home = document.getElementById("home");
+var sobre = document.getElementById("sobre");
+var antecedentes = document.getElementById("antecedentes");
+var bolchevique = document.getElementById("bolchevique");
+var codigofonte = document.getElementById("codigofonte");
+var joguinho = document.getElementById("joguinho");
+var trocartema = document.getElementById("trocartema");
+var antecedentestitulo = document.getElementById("antecedentestitulo")
+var bolcheviquetitulo = document.getElementById("bolcheviquetitulo")
+var sobretextos = document.getElementById("sobretextos")
+var musicanyan = new Audio("nyan_music.mp3")
+var circulo1 = document.getElementById("circulo1")
+var circulo2 = document.getElementById("circulo2")
+var circle1 = document.getElementById("circle11")
+var circle2 = document.getElementById("circle22")
+var animareverse = false;
+
+home.addEventListener("click", function(){
+    window.open("../index.html")
+})
+menubut.addEventListener("click", function(){
+    menubut.style.animationName = "None";
+    menubox.style.animation = "None";
+    if (animareverse == false){
+        menubut.style.animationName = "menuanim";
+        menubox.style.animation = "menuboxanim 1s"
+        menubox.style.left = "0%"
+        animareverse = true;
+    } else {
+        menubut.style.animationName = "menuanim2"
+        menubox.style.animation = "menuboxanim2 1s"
+        menubox.style.left = "-24%"
+        animareverse = false;
+    }
+
+    
+})
+sobre.addEventListener("click", function(){
+    sobretextos.scrollIntoView({ behavior: 'smooth' }); 
+
+})
+antecedentes.addEventListener("click", function(){
+    antecedentestitulo.scrollIntoView({ behavior: 'smooth' }); 
+
+})
+bolchevique.addEventListener("click", function(){
+    bolcheviquetitulo.scrollIntoView({ behavior: 'smooth' }); 
+
+})
+codigofonte.addEventListener("click", function(){
+    window.open("codigo-fonte.txt")
+})
+joguinho.addEventListener("click", function(){
+    alert("äinda em desenvolvimento")
+})
+
+trocartema.addEventListener("click", function(){
+    document.body.style.backgroundImage = "url(https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif)";
+    musicanyan.volume = 0.05
+    musicanyan.loop = true
+    musicanyan.play()
+    circulo1.style.backgroundColor = "pink"
+    console.log("ola")
+    circulo2.style.backgroundColor = "pink"
+    circle1.style.filter = "brightness(1)"
+    circle2.style.filter = "brightness(1)"
+})
+
+});
+
+
+
+
+OBS:Este codigo é meio que o codigo otimizado do trabalho original,e se vc esta vendo isso,porque esta aqui em ? curioso,n tem nada aq n...
