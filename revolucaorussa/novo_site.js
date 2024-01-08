@@ -119,7 +119,7 @@ puxarmusica.addEventListener("click", function(){
           disablekb: 0,
           playerVars: {
             listType: 'playlist',
-            list: 'PLvblFFcP5pssHGdv8OlOxXelAQOuLSg6k',  
+            list: 'PLvblFFcP5psvmdNRsRrYj99shbO91klwp',  
             loop: 1  
           },
           events: {

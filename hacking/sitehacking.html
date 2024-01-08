@@ -1,0 +1,101 @@
+<html>
+
+<head>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <link rel="stylesheet" href="sitehacking.css">
+    <link rel="shortcut icon" type="image/png"
+        href="https://littlestaughtonbaptist.org.uk/wp-content/uploads/2018/01/cropped-favicon-dark.png">
+</head>
+
+<body>
+    <div class="circle1" id="circle11">
+        <div class="filtro" id="circulo1"></div>
+    </div>
+    <div class="circle2" id="circle22">
+        <div class="filtro" id="circulo2"></div>
+    </div>
+    <span class="menubut" id="menubut"></span>
+    <span class="menubox" id="menubox">
+        <span class="menutext" id="home" style="padding-top: 5%;">Home</span>
+        <span class="menutext" id="sobre">Sobre</span>
+        <span class="menutext" id="antecedentes">Em desenvolvimento...</span>
+        <span class="menutext" id="bolchevique">Em desenvolvimento...</span>
+        <span class="menutext" id="codigofonte">Em desenvolvimento...</span>
+        <span class="menutext" id="joguinho">Em desenvolvimento...</span>
+        <span class="menutext" id="trocartema">SUPER<br>RAIMBOW!!</span>
+    </span>
+    <span class="titulo1">Forumination</span>
+    <span class="titulo">Tema: Basico Sobre Hacking</span>
+    <span class="texto">Neste topíco, para os curiosos, irei dar uma pequena explicaçao sobre hacking, no caso, comentar
+        sobre algumas falhas simples, e que particularmente sao encontradas em muitos sites, nao me responsabilizo oque
+        voce vai fazer com isso.</span>
+    <div class="imagem"
+        style="background-image: url('https://y9d2z4k7.rocketcdn.me/wp-content/uploads/2023/07/When-you-Install-Kalilinux-and-run-Apt-get-Update.png');">
+    </div>
+    <span class="titulo">SQL injection</span>
+    <span class="texto">(essa aq é meio complicada)SQL injection, TODAS as coisas feitas em um site ou aplicativo, tem
+        uma logica por trás, e muitas vezes nem sempre a logica esta correta em todas as situaçoes, por exemplo um
+        codigo pode verificar se um usuario esta em uma lista, assim sendo, o codigo em sql ficaria algo parecido com
+        isso:"SELECT * FROM Users WHERE IDdousuario = " + txtIDdousuario( voce pode ler tudo isso meio que ao pé da
+        letra ), como não há nenhuma verificaçao sobre o texto que o usuario(txtIDdousuario) esta mandando, se voce
+        definir esse texto como: "qualquer coisa aqui" OR 1 = 1, ele ira verificar a primeira parte("qualquer coisa
+        aqui") que nao corresponde a um usuario, e como colocamos um OR ele ira verificar se a outra parte é verdadeira
+        e esta escrito nela que 1 = 1 oque retorna para o codigo que isso é verdadeiro, mesmo o usuario estando errado,
+        e voce consseguindo logar no site, atualmente, nao é uma falha tao comum, mas ainda existe</span>
+    <span class="titulo">Sub diretorios</span>
+    <span class="texto">Esse não é meio que "o nome oficial" desta falha, mas, em alguns casos ela não é considerado uma
+        falha, por isso é ignorada, ela consiste em ter diretórios sem nenhuma proteção, qualquer pessoa conseguir ver,
+        isso da acesso aos arquivos do servidor, e você pode acabar coletando informações sobre, usuários, senhas,
+        imagens, códigos é algo preocupante, mas muitas vezes ignorado, o link:
+        siteseilateste.com/site/sitefodastico.html, por exemplo, é um caminho, todos os links resumidamente são(esse
+        link não existe é um exemplo), todo site se origina de um arquivo .html, como o sitefodastico.html, se
+        removermos essa parte da aba de navegação, estamos acessando o diretorio inicial desse site, podendo navegar por ele se não
+        ouver uma proteçao</span>
+    <span class="titulo">Cross-Site Scripting(xss)</span>
+    <span class="texto">Existem meio que variantes deste tipo de falha,mas de forma resumida, apos o link do site, voce
+        pode adicionar um ? e adicionar parametros apos ele, como este
+        https://bl4ckbl0d.github.io/forumination.github.io/hacking/sitehacking.html?playlist=playlistsecreta sem querer
+        mandar uma indireta,mas em alguns outros sites,isso pode resultar em uma real falha de segurança,roubando token
+        do usuario(isto é usado para fazer login na sua conta)e isso ja foi em uma epoca muito utilizado para por
+        exemplo,roubar contas do discord,mas isso pode resultar em nao apenas poblemas para o usuario am sim para o
+        servidor tambem, e ja que voce leu ate aqui,vou te dar uma dica da flag,basta voce entender o codigo js(vai nao
+        é tao dificil e tem haver com este topico especificamente)</span>
+    <span class="titulo">Cross-Site Request Forgery</span>
+    <span class="titulo">(CSRF)</span>
+    <span class="texto">Esta falha consiste em, o hacker se passar por um usuario que nao é ele, fingindo ser outro
+        usuario, alterando dados entre outras coisas, e de foram geral, isso acontece com por exemplo, um site identico
+        ao original, voce coloca suas informaçoes, ele manda os dados para o site original, que retorna o seu token de
+        acesso ao site original, assim o hacker tendo acesso a sua conta</span>
+    <span class="titulo">Outros</span>
+    <span class="texto">Existem inumeros outros tipos de falhas,que sao geradas por outros
+        fatores até,como o virus WannaCry,que o simples fato de voce estar em uma rede com um computador infectado,voce
+        podia ser infectado,mas estao que estao neste topico sao as mais basicas,se tiver alguma duvida e quiser entrar
+        em contato +5518997778352 ;) tambem sou programador e editor akakak</span>
+    <span class="texto" style="margin-bottom: 10%;">E se alguem quiser começar aprogramar ou procurar falhas, recomendo pesquisar MUITO, tem sites tambem que voce pode fazer testes praticos de hacking, como o hackthebox, ou teste de logica para programadores logicsignal,todo hacker sabe programar,mas nem todo programador sabe hackear.</span>
+    <span class="hallucination-effect" style="width: 30%;aspect-ratio: 1/1;margin-left: auto;margin-right: auto;background-position: center;background-size: 200%;margin-bottom: 10%; background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-800x534.jpg');"></span>
+
+
+    <div id="player" class="tirardatela"></div>
+    <div id="puxarmusica" class="puxarmusica"></div>
+    <div class="verdadeirabox" id="musiquinhas">
+        <div id="tumbnail" class="tumbnaillinda"></div>
+        <div class="botaoretornar" id="botaoretornar"></div>
+        <div class="botaoplay" id="botaoplay"></div>
+        <div class="botaoavancar" id="botaoavancar"></div>
+        <input type="range" id="volume" min="0" max="100" value="50" class="botaovolume">
+    </div>
+    <div class="musicbox" id="musicbox">
+    </div>
+    <span class="sobre" id="sobretextos">
+        <span class="sobretexto">isso foi tudo feito e pesquisasdo por uma pessoa tiver duvida entre em contato :D,alem
+            de que quem achar a flag secreta(estilo da menssage: flag{meu numero de telefone}) escondido em algum
+            lugar,que voce tera que usar oq voce aprende aqui para achar,boa sorte,quem consseguir primeiro ganha 1 real
+            kkkkk</span>
+        <span class="sobretexto">Tudo foi desenvolvido por uma pessoa,espero q goste ;D</span>
+
+    </span>
+
+</body>
+<script src="sitehacking.js"></script>
+
+</html>
