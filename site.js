@@ -12,6 +12,9 @@ document.getElementById("waltervshitler1").addEventListener('click', function() 
 document.getElementById("waltervshitler2").addEventListener('click', function() {
     window.open("https://drive.google.com/file/d/1bJie6h3nX9j7dIwnWyN-RCSl6P0k9Pes/view?usp=drive_link")
 })
+document.getElementById("coelhodapascoa").addEventListener('click', function() {
+    window.open("https://drive.google.com/file/d/1DsiCFVLY_WIvjti295zeivB1ImxHk5VG/view?usp=sharing")
+})
 document.getElementById("naoseiainda").addEventListener('click', function() {
     alert("clica baixo nengue")
 })
